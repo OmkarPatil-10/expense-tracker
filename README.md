@@ -64,6 +64,3 @@ Below is an example of how to use the application:
 2. Add expenses with details like name, category, and amount.
 3. View the summary to check your total expenses and remaining budget.
 
-
-# Contribution
-Contributions are welcome! Please create a pull request or open an issue to discuss your ideas for improvements or new features.
